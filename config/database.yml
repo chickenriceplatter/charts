@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: charts_development
+  username: dave
+  password:
+  host: localhost
+
